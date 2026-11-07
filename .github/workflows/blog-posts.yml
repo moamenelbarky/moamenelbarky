@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: profile-commit
+  group: blog-posts
   cancel-in-progress: false
 
 jobs:

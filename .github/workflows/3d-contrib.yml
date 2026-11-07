@@ -6,13 +6,15 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: profile-commit
+  group: 3d-contrib
   cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D Contribution Calendar
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout
