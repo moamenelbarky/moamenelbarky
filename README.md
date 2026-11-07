@@ -241,23 +241,6 @@
   src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"
 />
 
-## ✍️ Latest Articles
-
-<!-- Auto-updated every 6 hours by blog-posts.yml from Medium RSS -->
-<!-- markdownlint-disable MD013 -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- markdownlint-enable MD013 -->
-
-_Follow me on [Medium](https://medium.com/@moamenelbarky) for upcoming
-articles._
-
-<img
-  width="100%"
-  alt="divider"
-  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"
-/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -296,12 +279,6 @@ articles._
   <img
     alt="Codeforces"
     src="https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB"
-  />
-</a>
-<a href="https://medium.com/@moamenelbarky">
-  <img
-    alt="Medium"
-    src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=white"
   />
 </a>
 
