@@ -1,0 +1,39 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "10 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3.5.0
+        with:
+          github_user_name: moamenelbarky
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#58a6ff&color_dots=#0d1117,#16213e,#0f3460,#58a6ff,#79b8ff
+            dist/snake-light.svg?palette=github-light&color_snake=#0969da&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+
+      - name: Deploy SVGs to output branch
+        run: |
+          mkdir -p /tmp/snake-output
+          cp -r dist/* /tmp/snake-output/
+          cd /tmp/snake-output
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "🐍 Update contribution snake animation [skip ci]"
+          git branch -M output
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          git push -f origin output
