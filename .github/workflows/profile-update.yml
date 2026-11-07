@@ -21,17 +21,12 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: "lts/*"
 
       - name: Generate dynamic SVG header
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/generate-header.mjs
-
-      - name: Update Open Source contributions
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/update-oss-contrib.mjs
 
       - name: Update cache buster timestamp
         run: node scripts/update-readme-cachebust.mjs
