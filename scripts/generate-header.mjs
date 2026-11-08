@@ -4,7 +4,7 @@ import { mkdir, writeFile } from 'node:fs/promises';
 import { USERNAME, TIMEZONE, github, escapeXml } from './lib.mjs';
 
 const NAME = 'Moamen Elbarky';
-const TITLE = 'Full-Stack Software Engineer · .NET · Angular · AWS SAA';
+const TITLE = 'Full-Stack Software Engineer';
 const W = 800;
 const H = 200;
 

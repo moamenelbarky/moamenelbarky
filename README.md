@@ -5,7 +5,7 @@
   <img
     width="100%"
     alt="Dynamic header with a Cairo-time greeting and live GitHub stats"
-    src="https://raw.githubusercontent.com/moamenelbarky/moamenelbarky/main/dynamic-svg/header.svg?v=1794141521"
+    src="https://raw.githubusercontent.com/moamenelbarky/moamenelbarky/main/dynamic-svg/header.svg?v=1794159972"
   />
 </a>
 
@@ -52,17 +52,13 @@
 
 ## 🚀 About Me
 
-- 💼 **Full-Stack Software Engineer**: .NET, Angular, PostgreSQL, MongoDB,
-  Docker, Azure and AWS. I have deployed two full-stack projects to production.
+- 💼 **Full-Stack Software Engineer**
 - 🎓 **B.Sc. in Artificial Intelligence** at Menofia University (2024 – expected
   2028).
 - ☁️ **AWS Certified Solutions Architect – Associate** (SAA-C03, 798/1000).
-- 🌍 **Open-source contributor** to DSpace, GrandNode, angular-editor and Remote
-  by FutrX.
-- 🌱 Preparing for **Google Summer of Code**. Find me on
-  [GitLab](https://gitlab.com/moamenelbarky) too.
-- 📚 Reading _Designing Data-Intensive Applications_, _Learning Domain-Driven
-  Design_, _Building Microservices_ and _System Design Interview_.
+- 🌍 **Open-source contributor** to DSpace, GrandNode, angular-editor, and
+  Remote by FutrX.
+- 🦊 Also active on [GitLab](https://gitlab.com/moamenelbarky).
 
 <img
   width="100%"
