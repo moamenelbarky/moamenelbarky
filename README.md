@@ -56,8 +56,6 @@
 - 🎓 **B.Sc. in Artificial Intelligence** at Menofia University (2024 – expected
   2028).
 - ☁️ **AWS Certified Solutions Architect – Associate** (SAA-C03, 798/1000).
-- 🌍 **Open-source contributor** to DSpace, GrandNode, angular-editor, and
-  Remote by FutrX.
 - 🦊 Also active on [GitLab](https://gitlab.com/moamenelbarky).
 
 <img
