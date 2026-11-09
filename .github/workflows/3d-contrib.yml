@@ -29,17 +29,13 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          mkdir -p /tmp/profile-3d-backup
-          cp -r profile-3d-contrib /tmp/profile-3d-backup/
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase origin main
-          mkdir -p profile-3d-contrib
-          cp -r /tmp/profile-3d-backup/profile-3d-contrib/* profile-3d-contrib/
           git add profile-3d-contrib/
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0
           fi
           git commit -m "🎨 Update 3D contribution calendar [skip ci]"
+          git pull --rebase origin main
           git push origin main
