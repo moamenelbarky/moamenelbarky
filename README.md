@@ -5,7 +5,7 @@
   <img
     width="100%"
     alt="Dynamic header with a Cairo-time greeting and live GitHub stats"
-    src="https://raw.githubusercontent.com/moamenelbarky/moamenelbarky/main/dynamic-svg/header.svg?v=1794236268"
+    src="https://raw.githubusercontent.com/moamenelbarky/moamenelbarky/main/dynamic-svg/header.svg?v=1794272734"
   />
 </a>
 
