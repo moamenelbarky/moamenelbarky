@@ -1,104 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="200"
-  viewBox="0 0 800 200" role="img" aria-label="Good Afternoon! I&apos;m Moamen Elbarky. Full-Stack Software Engineer">
-  <rect width="100%" height="100%" rx="12" fill="#050a05"/>
-      <text x="18" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">10
-      <animate attributeName="y" values="-20;220"
-        dur="3.9s" begin="2.0s"
-        repeatCount="indefinite"/></text><text x="54" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">10
-      <animate attributeName="y" values="-20;220"
-        dur="2.4s" begin="2.0s"
-        repeatCount="indefinite"/></text><text x="90" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">01
-      <animate attributeName="y" values="-20;220"
-        dur="3.5s" begin="1.0s"
-        repeatCount="indefinite"/></text><text x="126" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">{}
-      <animate attributeName="y" values="-20;220"
-        dur="2.9s" begin="0.0s"
-        repeatCount="indefinite"/></text><text x="162" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">=&gt;
-      <animate attributeName="y" values="-20;220"
-        dur="2.8s" begin="0.3s"
-        repeatCount="indefinite"/></text><text x="198" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">=&gt;
-      <animate attributeName="y" values="-20;220"
-        dur="3.6s" begin="1.8s"
-        repeatCount="indefinite"/></text><text x="234" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">01
-      <animate attributeName="y" values="-20;220"
-        dur="2.6s" begin="0.2s"
-        repeatCount="indefinite"/></text><text x="270" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">10
-      <animate attributeName="y" values="-20;220"
-        dur="2.3s" begin="1.0s"
-        repeatCount="indefinite"/></text><text x="306" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">10
-      <animate attributeName="y" values="-20;220"
-        dur="2.4s" begin="0.7s"
-        repeatCount="indefinite"/></text><text x="342" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">=&gt;
-      <animate attributeName="y" values="-20;220"
-        dur="3.8s" begin="1.6s"
-        repeatCount="indefinite"/></text><text x="378" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">=&gt;
-      <animate attributeName="y" values="-20;220"
-        dur="3.6s" begin="1.7s"
-        repeatCount="indefinite"/></text><text x="414" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">{}
-      <animate attributeName="y" values="-20;220"
-        dur="3.6s" begin="1.7s"
-        repeatCount="indefinite"/></text><text x="450" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">=&gt;
-      <animate attributeName="y" values="-20;220"
-        dur="3.7s" begin="1.6s"
-        repeatCount="indefinite"/></text><text x="486" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">=&gt;
-      <animate attributeName="y" values="-20;220"
-        dur="3.6s" begin="0.4s"
-        repeatCount="indefinite"/></text><text x="522" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">{}
-      <animate attributeName="y" values="-20;220"
-        dur="2.9s" begin="1.5s"
-        repeatCount="indefinite"/></text><text x="558" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">=&gt;
-      <animate attributeName="y" values="-20;220"
-        dur="2.8s" begin="1.6s"
-        repeatCount="indefinite"/></text><text x="594" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">&lt;/&gt;
-      <animate attributeName="y" values="-20;220"
-        dur="4.0s" begin="1.0s"
-        repeatCount="indefinite"/></text><text x="630" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">10
-      <animate attributeName="y" values="-20;220"
-        dur="3.3s" begin="0.5s"
-        repeatCount="indefinite"/></text><text x="666" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">&lt;/&gt;
-      <animate attributeName="y" values="-20;220"
-        dur="4.0s" begin="2.1s"
-        repeatCount="indefinite"/></text><text x="702" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">10
-      <animate attributeName="y" values="-20;220"
-        dur="2.5s" begin="0.6s"
-        repeatCount="indefinite"/></text><text x="738" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">{}
-      <animate attributeName="y" values="-20;220"
-        dur="2.1s" begin="0.8s"
-        repeatCount="indefinite"/></text><text x="774" y="-20" font-family="monospace" font-size="13"
-      fill="#00ff41" opacity="0.25">01
-      <animate attributeName="y" values="-20;220"
-        dur="2.1s" begin="2.1s"
-        repeatCount="indefinite"/></text>
-      <rect x="70" y="22" width="660" height="156" rx="10" fill="#050a05"
-        fill-opacity="0.82"/>
-  <text x="400" y="68" text-anchor="middle" font-family="Fira Code, Consolas, monospace"
-    font-size="34" font-weight="700" fill="#ffffff">Good Afternoon! I&apos;m Moamen Elbarky<animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  viewBox="0 0 800 200" role="img" aria-label="Good Night! I&apos;m Moamen Elbarky. Full-Stack Software Engineer">
+  <defs><filter id="blur"><feGaussianBlur stdDeviation="28"/>
+      </filter></defs>
+      <rect width="100%" height="100%" rx="12" fill="#0d1117"/>
+      <ellipse cx="400" cy="40" rx="520" ry="46"
+      fill="#0f3460" opacity="0.22" filter="url(#blur)">
+      <animate attributeName="cx" values="300;500;300" dur="9s"
+        repeatCount="indefinite"/></ellipse><ellipse cx="400" cy="110" rx="520" ry="46"
+      fill="#58a6ff" opacity="0.22" filter="url(#blur)">
+      <animate attributeName="cx" values="300;500;300" dur="12s"
+        repeatCount="indefinite"/></ellipse>
+      <ellipse cx="400" cy="170" rx="520" ry="46"
+      fill="#1a1a2e" opacity="0.22" filter="url(#blur)">
+      <animate attributeName="cx" values="300;500;300" dur="10s"
+        repeatCount="indefinite"/></ellipse>
+  <text x="400" y="68" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial"
+    font-size="34" font-weight="700" fill="#ffffff">Good Night! I&apos;m Moamen Elbarky<animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
   </text>
-  <text x="400" y="104" text-anchor="middle" font-family="Fira Code, Consolas, monospace"
-    font-size="17" fill="#3ddc84">Full-Stack Software Engineer</text>
-  <text x="400" y="146" text-anchor="middle" font-family="Fira Code, Consolas, monospace"
-    font-size="15" fill="#00ff41">👥 1 followers   •   📦 13 repos   •   🧩 225 LeetCode solved   •   ☁️ AWS Certified</text>
-  <text x="786" y="188" text-anchor="end" font-family="Fira Code, Consolas, monospace"
-    font-size="10" fill="#3ddc84" opacity="0.6">updated 13 Nov 2026, 15:49 (Cairo)</text>
+  <text x="400" y="104" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial"
+    font-size="17" fill="#9da7b3">Full-Stack Software Engineer</text>
+  <text x="400" y="146" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial"
+    font-size="15" fill="#79b8ff">👥 1 followers   •   📦 13 repos   •   🧩 225 LeetCode solved   •   ☁️ AWS Certified</text>
+  <text x="786" y="188" text-anchor="end" font-family="Segoe UI, Ubuntu, Arial"
+    font-size="10" fill="#9da7b3" opacity="0.6">updated 14 Nov 2026, 01:10 (Cairo)</text>
 </svg>
