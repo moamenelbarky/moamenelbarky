@@ -4,26 +4,25 @@
 <a href="https://github.com/moamenelbarky">
   <img
     width="100%"
-    alt="Dynamic header with a Cairo-time greeting and live GitHub stats"
-    src="https://raw.githubusercontent.com/moamenelbarky/moamenelbarky/main/dynamic-svg/header.svg?v=1794929036"
+    alt="Hi, I'm Moe Elbarky, Full-Stack and Cloud Software Engineer"
+    src="https://raw.githubusercontent.com/moamenelbarky/moamenelbarky/main/dynamic-svg/header.svg?v=1794932113"
   />
 </a>
 
 <br />
 
-<img
-  alt="Profile views"
-  src="https://komarev.com/ghpvc/?username=moamenelbarky&style=for-the-badge&color=1a1a2e&labelColor=000000"
-/> <a href="https://github.com/moamenelbarky?tab=followers"> <img
-    alt="GitHub followers"
-    src="https://img.shields.io/github/followers/moamenelbarky?style=for-the-badge&color=16213e&labelColor=1a1a2e&logo=github"
-  /> </a> <img
-  alt="AWS Certified Solutions Architect Associate"
-  src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=0d1117"
-/> <img
-  alt="Open to work"
-  src="https://img.shields.io/badge/⚡_Status-Open_to_Work-58a6ff?style=for-the-badge&labelColor=0d1117"
-/>
+<a href="https://docs.google.com/document/d/1fLEu1ZZtXWJJy3iM3cXAoq66pThVTRejoIb33-jmGLk/preview?tab=t.0">
+  <img
+    alt="Resume"
+    src="https://img.shields.io/badge/📄_Resume-0d1117?style=for-the-badge"
+  />
+</a>
+<a href="https://linkedin.com/in/moamenelbarky">
+  <img
+    alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
 
 </div>
 
@@ -44,25 +43,13 @@
   />
 </picture>
 
-<img
-  width="100%"
-  alt="divider"
-  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"
-/>
-
 ## 🚀 About Me
 
-- 💼 **Full-Stack Software Engineer**
-- 🎓 **B.Sc. in Artificial Intelligence** at Menofia University (2024 – expected
-  2028).
-- ☁️ **AWS Certified Solutions Architect – Associate** (SAA-C03, 798/1000).
+- 💼 **Full-Stack & Cloud Software Engineer**
+- 🎓 **B.Sc. in Artificial Intelligence** at Menofia University (2024 –
+  expected 2028).
+- 🔓 **Open-source contributor** to GitLab, DSpace and more.
 - 🦊 Also active on [GitLab](https://gitlab.com/moamenelbarky).
-
-<img
-  width="100%"
-  alt="divider"
-  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"
-/>
 
 ## 🧰 Tech Stack
 
@@ -71,7 +58,9 @@
 <img
   alt="Languages and frameworks"
   src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,cpp,postgres,mongodb&theme=dark"
-/> <br /> <img
+/>
+<br />
+<img
   alt="Cloud and DevOps"
   src="https://skillicons.dev/icons?i=docker,azure,aws,terraform,githubactions,linux,git,grafana&theme=dark"
 />
@@ -81,126 +70,91 @@
 <img
   alt="Clean Architecture"
   src="https://img.shields.io/badge/Clean_Architecture-1a1a2e?style=for-the-badge&logo=dotnet&logoColor=white"
-/> <img
+/>
+<img
   alt="CQRS"
   src="https://img.shields.io/badge/CQRS-16213e?style=for-the-badge&logo=dotnet&logoColor=white"
-/> <img
+/>
+<img
   alt="DDD"
   src="https://img.shields.io/badge/DDD-0f3460?style=for-the-badge&logo=dotnet&logoColor=white"
-/> <img
+/>
+<img
   alt="EF Core"
   src="https://img.shields.io/badge/EF_Core-1a1a2e?style=for-the-badge&logo=dotnet&logoColor=white"
-/> <img
+/>
+<img
   alt="RxJS"
   src="https://img.shields.io/badge/RxJS-16213e?style=for-the-badge&logo=reactivex&logoColor=B7178C"
-/> <img
+/>
+<img
   alt="NgRx"
   src="https://img.shields.io/badge/NgRx-0f3460?style=for-the-badge&logo=ngrx&logoColor=white"
-/> <img
+/>
+<img
   alt="xUnit"
   src="https://img.shields.io/badge/xUnit-1a1a2e?style=for-the-badge&logo=dotnet&logoColor=white"
-/> <img
+/>
+<img
   alt="Vitest"
   src="https://img.shields.io/badge/Vitest-16213e?style=for-the-badge&logo=vitest&logoColor=FCC72B"
-/> <img
+/>
+<img
   alt="Playwright"
   src="https://img.shields.io/badge/Playwright-0f3460?style=for-the-badge&logo=playwright&logoColor=2EAD33"
-/> <img
+/>
+<img
   alt="Datadog"
   src="https://img.shields.io/badge/Datadog-1a1a2e?style=for-the-badge&logo=datadog&logoColor=white"
-/> <img
-  alt="Doppler"
-  src="https://img.shields.io/badge/Doppler-16213e?style=for-the-badge&logoColor=white"
-/> <img
+/>
+<img
   alt="MCP and AI agents"
   src="https://img.shields.io/badge/MCP_&_AI_Agents-0f3460?style=for-the-badge&logo=anthropic&logoColor=white"
 />
 
 </div>
 
-<img
-  width="100%"
-  alt="divider"
-  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"
-/>
+## 🏅 Certifications
 
-## 📊 Achievements & Metrics
-
+<!-- Synced from Credly every 6 hours by scripts/update-credly.mjs -->
+<!-- CREDLY:START -->
 <div align="center">
 
-<img
-  width="100%"
-  alt="Profile details"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moamenelbarky&theme=github_dark"
-/>
-
-<br />
-
-<img
-  width="32%"
-  alt="Repos per language"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moamenelbarky&theme=github_dark"
-/> <img
-  width="32%"
-  alt="Most commit language"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moamenelbarky&theme=github_dark"
-/> <img
-  width="32%"
-  alt="GitHub stats"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moamenelbarky&theme=github_dark"
-/>
-
-<br /><br />
-
-<!-- Regenerated every 6 hours by metrics.yml (needs METRICS_TOKEN) -->
-
-<img
-  alt="Detailed GitHub metrics"
-  src="https://raw.githubusercontent.com/moamenelbarky/moamenelbarky/main/metrics/github-metrics.svg"
-/>
-
-</div>
-
-<img
-  width="100%"
-  alt="divider"
-  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"
-/>
-
-## 🏙️ 3D Contributions
-
-<div align="center">
-
-<!-- Regenerated daily by 3d-contrib.yml -->
-
-<img
-  width="100%"
-  alt="3D contribution calendar"
-  src="https://raw.githubusercontent.com/moamenelbarky/moamenelbarky/main/profile-3d-contrib/profile-night-view.svg"
-/>
-
-<br />
-
-<a href="https://skyline.github.com/moamenelbarky/2026">
+<a href="https://www.credly.com/badges/e5c6b8ff-01df-441d-b7ab-132e22bf7dbd">
   <img
-    alt="3D Skyline 2026"
-    src="https://img.shields.io/badge/🏙️_3D_Skyline_2026-0d1117?style=for-the-badge&logo=github&logoColor=white"
-  />
-</a>
-<a href="https://skyline.github.com/moamenelbarky/2025">
-  <img
-    alt="3D Skyline 2025"
-    src="https://img.shields.io/badge/🏙️_3D_Skyline_2025-1a1a2e?style=for-the-badge&logo=github&logoColor=white"
+    width="130"
+    alt="AWS Certified Solutions Architect – Associate"
+    title="AWS Certified Solutions Architect – Associate"
+    src="./assets/credly/aws-certified-solutions-architect-associate.png"
   />
 </a>
 
 </div>
+<!-- CREDLY:END -->
 
-<img
-  width="100%"
-  alt="divider"
-  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"
-/>
+## 🔓 Open Source
+
+<div align="center">
+
+<!-- Official GitLab Contributor Platform card: level and points -->
+<a href="https://contributors.gitlab.com/@moamenelbarky">
+  <img
+    alt="GitLab contributor stats"
+    src="https://contributors.gitlab.com/users/moamenelbarky/banner.svg"
+  />
+</a>
+
+<br />
+
+<!-- Live count of merged PRs to repositories I don't own -->
+<a href="https://github.com/pulls?q=author%3Amoamenelbarky+is%3Apr+is%3Amerged+-user%3Amoamenelbarky+-org%3Aquiz-nova+-org%3Amechanicshop">
+  <img
+    alt="Merged pull requests to external repositories"
+    src="https://img.shields.io/github/issues-search?query=author%3Amoamenelbarky%20is%3Apr%20is%3Amerged%20-user%3Amoamenelbarky%20-org%3Aquiz-nova%20-org%3Amechanicshop&label=Merged%20OSS%20PRs&style=for-the-badge&logo=github&color=238636&labelColor=0d1117"
+  />
+</a>
+
+</div>
 
 ## 🧩 Problem Solving
 
@@ -214,7 +168,16 @@
   />
 </a>
 
-<br />
+<br /><br />
+
+<a href="https://www.codewars.com/users/moamenelbarqy">
+  <img
+    alt="Codewars rank and honor"
+    src="https://www.codewars.com/users/moamenelbarqy/badges/large?theme=dark"
+  />
+</a>
+
+<br /><br />
 
 <a href="https://codeforces.com/profile/MoamenElbarky">
   <img
@@ -222,18 +185,8 @@
     src="https://img.shields.io/badge/Codeforces-25%2B_solved-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117"
   />
 </a>
-<img
-  alt="Codewars"
-  src="https://img.shields.io/badge/Codewars-180%2B_solved-B1361E?style=for-the-badge&logo=codewars&logoColor=white&labelColor=0d1117"
-/>
 
 </div>
-
-<img
-  width="100%"
-  alt="divider"
-  src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png"
-/>
 
 ## 🤝 Connect With Me
 
@@ -269,6 +222,12 @@
     src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"
   />
 </a>
+<a href="https://www.codewars.com/users/moamenelbarqy">
+  <img
+    alt="Codewars"
+    src="https://img.shields.io/badge/Codewars-0d1117?style=for-the-badge&logo=codewars&logoColor=B1361E"
+  />
+</a>
 <a href="https://codeforces.com/profile/MoamenElbarky">
   <img
     alt="Codeforces"
@@ -276,19 +235,4 @@
   />
 </a>
 
-<br /><br />
-
-<a href="https://docs.google.com/document/d/1fLEu1ZZtXWJJy3iM3cXAoq66pThVTRejoIb33-jmGLk/preview?tab=t.0">
-  <img
-    alt="Resume"
-    src="https://img.shields.io/badge/📄_Resume-58a6ff?style=for-the-badge&labelColor=0d1117"
-  />
-</a>
-
 </div>
-
-<img
-  width="100%"
-  alt="footer"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=150&section=footer"
-/>

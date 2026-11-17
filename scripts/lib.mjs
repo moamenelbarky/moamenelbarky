@@ -1,14 +1,14 @@
 // Shared helpers for the profile generator scripts (Node >= 20, no deps).
 
-export const USERNAME = 'moamenelbarky';
-export const TIMEZONE = 'Africa/Cairo';
+export const USERNAME = "moamenelbarky";
+export const TIMEZONE = "Africa/Cairo";
 
 /** Fetch JSON from the GitHub REST API, authenticated when a token exists. */
 export async function github(path) {
   const headers = {
-    Accept: 'application/vnd.github+json',
-    'User-Agent': `${USERNAME}-profile-generator`,
-    'X-GitHub-Api-Version': '2022-11-28',
+    Accept: "application/vnd.github+json",
+    "User-Agent": `${USERNAME}-profile-generator`,
+    "X-GitHub-Api-Version": "2022-11-28",
   };
   if (process.env.GITHUB_TOKEN) {
     headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
@@ -23,11 +23,11 @@ export async function github(path) {
 /** Escape text so it is safe to embed inside SVG/XML. */
 export function escapeXml(value) {
   return String(value)
-    .replaceAll('&', '&amp;')
-    .replaceAll('<', '&lt;')
-    .replaceAll('>', '&gt;')
-    .replaceAll('"', '&quot;')
-    .replaceAll("'", '&apos;');
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&apos;");
 }
 
 /**

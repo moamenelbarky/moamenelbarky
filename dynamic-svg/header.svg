@@ -1,89 +1,89 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="200"
-  viewBox="0 0 800 200" role="img" aria-label="Good Afternoon! I&apos;m Moamen Elbarky. Full-Stack Software Engineer">
+  viewBox="0 0 800 200" role="img" aria-label="Hi, I&apos;m Moe Elbarky. Full-Stack &amp; Cloud Software Engineer">
   <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0d1117"/>
       <stop offset="50%" stop-color="#1a1a2e"/>
       <stop offset="100%" stop-color="#16213e"/></linearGradient></defs>
-      <rect width="100%" height="100%" rx="12" fill="url(#bg)"/><circle cx="689" cy="174" r="1.9"
-      fill="#58a6ff" opacity="0.35">
-      <animate attributeName="cy" values="174;53;174"
-        dur="6.5s" repeatCount="indefinite"/></circle><circle cx="753" cy="74" r="2.0"
-      fill="#58a6ff" opacity="0.30">
-      <animate attributeName="cy" values="74;184;74"
-        dur="6.1s" repeatCount="indefinite"/></circle><circle cx="625" cy="68" r="0.8"
+      <rect width="100%" height="100%" rx="12" fill="url(#bg)"/><circle cx="646" cy="65" r="0.8"
+      fill="#58a6ff" opacity="0.52">
+      <animate attributeName="cy" values="65;96;65"
+        dur="6.7s" repeatCount="indefinite"/></circle><circle cx="167" cy="188" r="1.5"
+      fill="#58a6ff" opacity="0.28">
+      <animate attributeName="cy" values="188;170;188"
+        dur="4.9s" repeatCount="indefinite"/></circle><circle cx="685" cy="56" r="2.2"
+      fill="#58a6ff" opacity="0.48">
+      <animate attributeName="cy" values="56;40;56"
+        dur="3.7s" repeatCount="indefinite"/></circle><circle cx="775" cy="69" r="2.0"
       fill="#58a6ff" opacity="0.57">
-      <animate attributeName="cy" values="68;153;68"
-        dur="3.6s" repeatCount="indefinite"/></circle><circle cx="251" cy="104" r="0.9"
-      fill="#58a6ff" opacity="0.38">
-      <animate attributeName="cy" values="104;33;104"
-        dur="3.6s" repeatCount="indefinite"/></circle><circle cx="562" cy="107" r="0.9"
-      fill="#58a6ff" opacity="0.31">
-      <animate attributeName="cy" values="107;116;107"
-        dur="5.2s" repeatCount="indefinite"/></circle><circle cx="260" cy="59" r="1.6"
-      fill="#58a6ff" opacity="0.56">
-      <animate attributeName="cy" values="59;100;59"
-        dur="6.3s" repeatCount="indefinite"/></circle><circle cx="355" cy="35" r="1.8"
-      fill="#58a6ff" opacity="0.53">
-      <animate attributeName="cy" values="35;87;35"
-        dur="5.0s" repeatCount="indefinite"/></circle><circle cx="627" cy="76" r="1.7"
-      fill="#58a6ff" opacity="0.22">
-      <animate attributeName="cy" values="76;122;76"
-        dur="5.9s" repeatCount="indefinite"/></circle><circle cx="571" cy="132" r="1.9"
-      fill="#58a6ff" opacity="0.29">
-      <animate attributeName="cy" values="132;66;132"
-        dur="5.9s" repeatCount="indefinite"/></circle><circle cx="187" cy="185" r="1.8"
-      fill="#58a6ff" opacity="0.56">
-      <animate attributeName="cy" values="185;178;185"
-        dur="6.8s" repeatCount="indefinite"/></circle><circle cx="684" cy="135" r="1.8"
-      fill="#58a6ff" opacity="0.35">
-      <animate attributeName="cy" values="135;147;135"
-        dur="5.5s" repeatCount="indefinite"/></circle><circle cx="565" cy="102" r="0.8"
-      fill="#58a6ff" opacity="0.39">
-      <animate attributeName="cy" values="102;175;102"
-        dur="5.7s" repeatCount="indefinite"/></circle><circle cx="448" cy="190" r="1.1"
-      fill="#58a6ff" opacity="0.53">
-      <animate attributeName="cy" values="190;98;190"
-        dur="4.0s" repeatCount="indefinite"/></circle><circle cx="514" cy="73" r="0.8"
-      fill="#58a6ff" opacity="0.36">
-      <animate attributeName="cy" values="73;24;73"
-        dur="6.4s" repeatCount="indefinite"/></circle><circle cx="439" cy="83" r="1.9"
-      fill="#58a6ff" opacity="0.38">
-      <animate attributeName="cy" values="83;61;83"
-        dur="4.2s" repeatCount="indefinite"/></circle><circle cx="129" cy="32" r="1.2"
-      fill="#58a6ff" opacity="0.60">
-      <animate attributeName="cy" values="32;49;32"
-        dur="7.0s" repeatCount="indefinite"/></circle><circle cx="710" cy="184" r="1.6"
+      <animate attributeName="cy" values="69;15;69"
+        dur="4.9s" repeatCount="indefinite"/></circle><circle cx="606" cy="60" r="1.7"
+      fill="#58a6ff" opacity="0.25">
+      <animate attributeName="cy" values="60;31;60"
+        dur="4.9s" repeatCount="indefinite"/></circle><circle cx="84" cy="129" r="1.9"
+      fill="#58a6ff" opacity="0.59">
+      <animate attributeName="cy" values="129;26;129"
+        dur="4.2s" repeatCount="indefinite"/></circle><circle cx="638" cy="91" r="1.9"
+      fill="#58a6ff" opacity="0.45">
+      <animate attributeName="cy" values="91;35;91"
+        dur="4.3s" repeatCount="indefinite"/></circle><circle cx="510" cy="80" r="2.1"
+      fill="#58a6ff" opacity="0.25">
+      <animate attributeName="cy" values="80;104;80"
+        dur="6.7s" repeatCount="indefinite"/></circle><circle cx="669" cy="114" r="1.8"
       fill="#58a6ff" opacity="0.46">
-      <animate attributeName="cy" values="184;102;184"
-        dur="4.0s" repeatCount="indefinite"/></circle><circle cx="28" cy="23" r="1.3"
-      fill="#58a6ff" opacity="0.21">
-      <animate attributeName="cy" values="23;56;23"
-        dur="5.9s" repeatCount="indefinite"/></circle><circle cx="252" cy="27" r="1.9"
-      fill="#58a6ff" opacity="0.50">
-      <animate attributeName="cy" values="27;91;27"
-        dur="6.4s" repeatCount="indefinite"/></circle><circle cx="662" cy="112" r="2.0"
-      fill="#58a6ff" opacity="0.27">
-      <animate attributeName="cy" values="112;91;112"
-        dur="4.4s" repeatCount="indefinite"/></circle><circle cx="503" cy="146" r="1.2"
-      fill="#58a6ff" opacity="0.49">
-      <animate attributeName="cy" values="146;156;146"
-        dur="4.5s" repeatCount="indefinite"/></circle><circle cx="323" cy="136" r="2.0"
-      fill="#58a6ff" opacity="0.46">
-      <animate attributeName="cy" values="136;69;136"
-        dur="3.9s" repeatCount="indefinite"/></circle><circle cx="143" cy="167" r="1.2"
-      fill="#58a6ff" opacity="0.49">
-      <animate attributeName="cy" values="167;113;167"
-        dur="3.8s" repeatCount="indefinite"/></circle><circle cx="142" cy="82" r="1.6"
+      <animate attributeName="cy" values="114;90;114"
+        dur="4.6s" repeatCount="indefinite"/></circle><circle cx="146" cy="130" r="1.4"
+      fill="#58a6ff" opacity="0.34">
+      <animate attributeName="cy" values="130;119;130"
+        dur="4.4s" repeatCount="indefinite"/></circle><circle cx="497" cy="64" r="2.1"
+      fill="#58a6ff" opacity="0.43">
+      <animate attributeName="cy" values="64;80;64"
+        dur="6.7s" repeatCount="indefinite"/></circle><circle cx="200" cy="131" r="0.8"
       fill="#58a6ff" opacity="0.57">
-      <animate attributeName="cy" values="82;23;82"
-        dur="6.0s" repeatCount="indefinite"/></circle>
+      <animate attributeName="cy" values="131;143;131"
+        dur="3.9s" repeatCount="indefinite"/></circle><circle cx="579" cy="99" r="0.9"
+      fill="#58a6ff" opacity="0.55">
+      <animate attributeName="cy" values="99;149;99"
+        dur="6.9s" repeatCount="indefinite"/></circle><circle cx="566" cy="57" r="2.1"
+      fill="#58a6ff" opacity="0.47">
+      <animate attributeName="cy" values="57;159;57"
+        dur="4.4s" repeatCount="indefinite"/></circle><circle cx="349" cy="50" r="2.0"
+      fill="#58a6ff" opacity="0.49">
+      <animate attributeName="cy" values="50;36;50"
+        dur="3.6s" repeatCount="indefinite"/></circle><circle cx="273" cy="61" r="1.2"
+      fill="#58a6ff" opacity="0.23">
+      <animate attributeName="cy" values="61;163;61"
+        dur="3.6s" repeatCount="indefinite"/></circle><circle cx="448" cy="53" r="1.0"
+      fill="#58a6ff" opacity="0.43">
+      <animate attributeName="cy" values="53;156;53"
+        dur="6.8s" repeatCount="indefinite"/></circle><circle cx="560" cy="90" r="1.0"
+      fill="#58a6ff" opacity="0.57">
+      <animate attributeName="cy" values="90;21;90"
+        dur="3.1s" repeatCount="indefinite"/></circle><circle cx="282" cy="163" r="1.8"
+      fill="#58a6ff" opacity="0.37">
+      <animate attributeName="cy" values="163;111;163"
+        dur="6.7s" repeatCount="indefinite"/></circle><circle cx="301" cy="52" r="1.3"
+      fill="#58a6ff" opacity="0.41">
+      <animate attributeName="cy" values="52;95;52"
+        dur="5.4s" repeatCount="indefinite"/></circle><circle cx="46" cy="169" r="1.1"
+      fill="#58a6ff" opacity="0.23">
+      <animate attributeName="cy" values="169;188;169"
+        dur="4.6s" repeatCount="indefinite"/></circle><circle cx="26" cy="36" r="1.1"
+      fill="#58a6ff" opacity="0.48">
+      <animate attributeName="cy" values="36;170;36"
+        dur="7.0s" repeatCount="indefinite"/></circle><circle cx="704" cy="167" r="1.3"
+      fill="#58a6ff" opacity="0.47">
+      <animate attributeName="cy" values="167;19;167"
+        dur="6.5s" repeatCount="indefinite"/></circle><circle cx="593" cy="118" r="1.4"
+      fill="#58a6ff" opacity="0.55">
+      <animate attributeName="cy" values="118;41;118"
+        dur="4.5s" repeatCount="indefinite"/></circle>
   <text x="400" y="68" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial"
-    font-size="34" font-weight="700" fill="#ffffff">Good Afternoon! I&apos;m Moamen Elbarky<animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+    font-size="34" font-weight="700" fill="#ffffff">Hi, I&apos;m Moe Elbarky<animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
   </text>
   <text x="400" y="104" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial"
-    font-size="17" fill="#8b949e">Full-Stack Software Engineer</text>
+    font-size="17" fill="#8b949e">Full-Stack &amp; Cloud Software Engineer</text>
   <text x="400" y="146" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial"
-    font-size="15" fill="#58a6ff">👥 1 followers   •   📦 13 repos   •   🧩 225 LeetCode solved   •   ☁️ AWS Certified</text>
+    font-size="15" fill="#58a6ff">☁️ AWS Solutions Architect – Associate   •   🧩 225 LeetCode solved   •   🔓 Open-source contributor</text>
   <text x="786" y="188" text-anchor="end" font-family="Segoe UI, Ubuntu, Arial"
-    font-size="10" fill="#8b949e" opacity="0.6">updated 17 Nov 2026, 17:23 (Cairo)</text>
+    font-size="10" fill="#8b949e" opacity="0.6">updated 17 Nov 2026, 18:13 (Cairo)</text>
 </svg>

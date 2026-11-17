@@ -1,4 +1,4 @@
-name: Update Profile Dynamic Content
+﻿name: Update Profile Dynamic Content
 
 on:
   schedule:
@@ -24,9 +24,10 @@ jobs:
           node-version: "lts/*"
 
       - name: Generate dynamic SVG header
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/generate-header.mjs
+
+      - name: Sync Credly certification badges
+        run: node scripts/update-credly.mjs
 
       - name: Update cache buster timestamp
         run: node scripts/update-readme-cachebust.mjs
@@ -35,7 +36,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dynamic-svg/ README.md
+          git add dynamic-svg/ assets/ README.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0
