@@ -1,26 +1,89 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="200"
-  viewBox="0 0 800 200" role="img" aria-label="Good Night! I&apos;m Moamen Elbarky. Full-Stack Software Engineer">
-  <defs><filter id="blur"><feGaussianBlur stdDeviation="28"/>
-      </filter></defs>
-      <rect width="100%" height="100%" rx="12" fill="#0d1117"/>
-      <ellipse cx="400" cy="40" rx="520" ry="46"
-      fill="#0f3460" opacity="0.22" filter="url(#blur)">
-      <animate attributeName="cx" values="300;500;300" dur="9s"
-        repeatCount="indefinite"/></ellipse><ellipse cx="400" cy="110" rx="520" ry="46"
-      fill="#58a6ff" opacity="0.22" filter="url(#blur)">
-      <animate attributeName="cx" values="300;500;300" dur="12s"
-        repeatCount="indefinite"/></ellipse>
-      <ellipse cx="400" cy="170" rx="520" ry="46"
-      fill="#1a1a2e" opacity="0.22" filter="url(#blur)">
-      <animate attributeName="cx" values="300;500;300" dur="10s"
-        repeatCount="indefinite"/></ellipse>
+  viewBox="0 0 800 200" role="img" aria-label="Good Afternoon! I&apos;m Moamen Elbarky. Full-Stack Software Engineer">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/></linearGradient></defs>
+      <rect width="100%" height="100%" rx="12" fill="url(#bg)"/><circle cx="689" cy="174" r="1.9"
+      fill="#58a6ff" opacity="0.35">
+      <animate attributeName="cy" values="174;53;174"
+        dur="6.5s" repeatCount="indefinite"/></circle><circle cx="753" cy="74" r="2.0"
+      fill="#58a6ff" opacity="0.30">
+      <animate attributeName="cy" values="74;184;74"
+        dur="6.1s" repeatCount="indefinite"/></circle><circle cx="625" cy="68" r="0.8"
+      fill="#58a6ff" opacity="0.57">
+      <animate attributeName="cy" values="68;153;68"
+        dur="3.6s" repeatCount="indefinite"/></circle><circle cx="251" cy="104" r="0.9"
+      fill="#58a6ff" opacity="0.38">
+      <animate attributeName="cy" values="104;33;104"
+        dur="3.6s" repeatCount="indefinite"/></circle><circle cx="562" cy="107" r="0.9"
+      fill="#58a6ff" opacity="0.31">
+      <animate attributeName="cy" values="107;116;107"
+        dur="5.2s" repeatCount="indefinite"/></circle><circle cx="260" cy="59" r="1.6"
+      fill="#58a6ff" opacity="0.56">
+      <animate attributeName="cy" values="59;100;59"
+        dur="6.3s" repeatCount="indefinite"/></circle><circle cx="355" cy="35" r="1.8"
+      fill="#58a6ff" opacity="0.53">
+      <animate attributeName="cy" values="35;87;35"
+        dur="5.0s" repeatCount="indefinite"/></circle><circle cx="627" cy="76" r="1.7"
+      fill="#58a6ff" opacity="0.22">
+      <animate attributeName="cy" values="76;122;76"
+        dur="5.9s" repeatCount="indefinite"/></circle><circle cx="571" cy="132" r="1.9"
+      fill="#58a6ff" opacity="0.29">
+      <animate attributeName="cy" values="132;66;132"
+        dur="5.9s" repeatCount="indefinite"/></circle><circle cx="187" cy="185" r="1.8"
+      fill="#58a6ff" opacity="0.56">
+      <animate attributeName="cy" values="185;178;185"
+        dur="6.8s" repeatCount="indefinite"/></circle><circle cx="684" cy="135" r="1.8"
+      fill="#58a6ff" opacity="0.35">
+      <animate attributeName="cy" values="135;147;135"
+        dur="5.5s" repeatCount="indefinite"/></circle><circle cx="565" cy="102" r="0.8"
+      fill="#58a6ff" opacity="0.39">
+      <animate attributeName="cy" values="102;175;102"
+        dur="5.7s" repeatCount="indefinite"/></circle><circle cx="448" cy="190" r="1.1"
+      fill="#58a6ff" opacity="0.53">
+      <animate attributeName="cy" values="190;98;190"
+        dur="4.0s" repeatCount="indefinite"/></circle><circle cx="514" cy="73" r="0.8"
+      fill="#58a6ff" opacity="0.36">
+      <animate attributeName="cy" values="73;24;73"
+        dur="6.4s" repeatCount="indefinite"/></circle><circle cx="439" cy="83" r="1.9"
+      fill="#58a6ff" opacity="0.38">
+      <animate attributeName="cy" values="83;61;83"
+        dur="4.2s" repeatCount="indefinite"/></circle><circle cx="129" cy="32" r="1.2"
+      fill="#58a6ff" opacity="0.60">
+      <animate attributeName="cy" values="32;49;32"
+        dur="7.0s" repeatCount="indefinite"/></circle><circle cx="710" cy="184" r="1.6"
+      fill="#58a6ff" opacity="0.46">
+      <animate attributeName="cy" values="184;102;184"
+        dur="4.0s" repeatCount="indefinite"/></circle><circle cx="28" cy="23" r="1.3"
+      fill="#58a6ff" opacity="0.21">
+      <animate attributeName="cy" values="23;56;23"
+        dur="5.9s" repeatCount="indefinite"/></circle><circle cx="252" cy="27" r="1.9"
+      fill="#58a6ff" opacity="0.50">
+      <animate attributeName="cy" values="27;91;27"
+        dur="6.4s" repeatCount="indefinite"/></circle><circle cx="662" cy="112" r="2.0"
+      fill="#58a6ff" opacity="0.27">
+      <animate attributeName="cy" values="112;91;112"
+        dur="4.4s" repeatCount="indefinite"/></circle><circle cx="503" cy="146" r="1.2"
+      fill="#58a6ff" opacity="0.49">
+      <animate attributeName="cy" values="146;156;146"
+        dur="4.5s" repeatCount="indefinite"/></circle><circle cx="323" cy="136" r="2.0"
+      fill="#58a6ff" opacity="0.46">
+      <animate attributeName="cy" values="136;69;136"
+        dur="3.9s" repeatCount="indefinite"/></circle><circle cx="143" cy="167" r="1.2"
+      fill="#58a6ff" opacity="0.49">
+      <animate attributeName="cy" values="167;113;167"
+        dur="3.8s" repeatCount="indefinite"/></circle><circle cx="142" cy="82" r="1.6"
+      fill="#58a6ff" opacity="0.57">
+      <animate attributeName="cy" values="82;23;82"
+        dur="6.0s" repeatCount="indefinite"/></circle>
   <text x="400" y="68" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial"
-    font-size="34" font-weight="700" fill="#ffffff">Good Night! I&apos;m Moamen Elbarky<animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+    font-size="34" font-weight="700" fill="#ffffff">Good Afternoon! I&apos;m Moamen Elbarky<animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
   </text>
   <text x="400" y="104" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial"
-    font-size="17" fill="#9da7b3">Full-Stack Software Engineer</text>
+    font-size="17" fill="#8b949e">Full-Stack Software Engineer</text>
   <text x="400" y="146" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial"
-    font-size="15" fill="#79b8ff">👥 1 followers   •   📦 13 repos   •   🧩 225 LeetCode solved   •   ☁️ AWS Certified</text>
+    font-size="15" fill="#58a6ff">👥 1 followers   •   📦 13 repos   •   🧩 225 LeetCode solved   •   ☁️ AWS Certified</text>
   <text x="786" y="188" text-anchor="end" font-family="Segoe UI, Ubuntu, Arial"
-    font-size="10" fill="#9da7b3" opacity="0.6">updated 17 Nov 2026, 03:27 (Cairo)</text>
+    font-size="10" fill="#8b949e" opacity="0.6">updated 17 Nov 2026, 17:23 (Cairo)</text>
 </svg>
