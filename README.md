@@ -5,7 +5,7 @@
   <img
     width="100%"
     alt="Hi, I'm Moe Elbarky, Full-Stack and Cloud Software Engineer"
-    src="https://raw.githubusercontent.com/moamenelbarky/moamenelbarky/main/dynamic-svg/header.svg?v=1795133511"
+    src="https://raw.githubusercontent.com/moamenelbarky/moamenelbarky/main/dynamic-svg/header.svg?v=1795186006"
   />
 </a>
 
