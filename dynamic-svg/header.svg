@@ -4,79 +4,79 @@
       <stop offset="0%" stop-color="#0d1117"/>
       <stop offset="50%" stop-color="#1a1a2e"/>
       <stop offset="100%" stop-color="#16213e"/></linearGradient></defs>
-      <rect width="100%" height="100%" rx="12" fill="url(#bg)"/><circle cx="389" cy="34" r="1.7"
-      fill="#58a6ff" opacity="0.56">
-      <animate attributeName="cy" values="34;56;34"
-        dur="7.0s" repeatCount="indefinite"/></circle><circle cx="309" cy="97" r="1.3"
-      fill="#58a6ff" opacity="0.58">
-      <animate attributeName="cy" values="97;99;97"
-        dur="5.4s" repeatCount="indefinite"/></circle><circle cx="616" cy="98" r="2.0"
-      fill="#58a6ff" opacity="0.36">
-      <animate attributeName="cy" values="98;144;98"
-        dur="5.9s" repeatCount="indefinite"/></circle><circle cx="294" cy="78" r="2.2"
-      fill="#58a6ff" opacity="0.54">
-      <animate attributeName="cy" values="78;51;78"
-        dur="6.9s" repeatCount="indefinite"/></circle><circle cx="522" cy="189" r="1.1"
-      fill="#58a6ff" opacity="0.53">
-      <animate attributeName="cy" values="189;53;189"
-        dur="6.3s" repeatCount="indefinite"/></circle><circle cx="780" cy="148" r="1.7"
-      fill="#58a6ff" opacity="0.55">
-      <animate attributeName="cy" values="148;149;148"
-        dur="3.2s" repeatCount="indefinite"/></circle><circle cx="368" cy="151" r="1.6"
-      fill="#58a6ff" opacity="0.21">
-      <animate attributeName="cy" values="151;23;151"
-        dur="6.5s" repeatCount="indefinite"/></circle><circle cx="459" cy="181" r="1.4"
-      fill="#58a6ff" opacity="0.33">
-      <animate attributeName="cy" values="181;190;181"
-        dur="4.8s" repeatCount="indefinite"/></circle><circle cx="434" cy="86" r="0.8"
-      fill="#58a6ff" opacity="0.56">
-      <animate attributeName="cy" values="86;68;86"
-        dur="5.6s" repeatCount="indefinite"/></circle><circle cx="535" cy="150" r="1.2"
-      fill="#58a6ff" opacity="0.39">
-      <animate attributeName="cy" values="150;172;150"
-        dur="5.6s" repeatCount="indefinite"/></circle><circle cx="519" cy="86" r="1.2"
-      fill="#58a6ff" opacity="0.46">
-      <animate attributeName="cy" values="86;11;86"
-        dur="6.6s" repeatCount="indefinite"/></circle><circle cx="360" cy="110" r="2.2"
-      fill="#58a6ff" opacity="0.57">
-      <animate attributeName="cy" values="110;57;110"
-        dur="5.2s" repeatCount="indefinite"/></circle><circle cx="418" cy="68" r="1.5"
-      fill="#58a6ff" opacity="0.27">
-      <animate attributeName="cy" values="68;103;68"
-        dur="4.1s" repeatCount="indefinite"/></circle><circle cx="481" cy="23" r="2.1"
-      fill="#58a6ff" opacity="0.45">
-      <animate attributeName="cy" values="23;179;23"
-        dur="6.9s" repeatCount="indefinite"/></circle><circle cx="138" cy="100" r="0.9"
-      fill="#58a6ff" opacity="0.21">
-      <animate attributeName="cy" values="100;152;100"
-        dur="5.5s" repeatCount="indefinite"/></circle><circle cx="287" cy="97" r="2.0"
-      fill="#58a6ff" opacity="0.36">
-      <animate attributeName="cy" values="97;39;97"
-        dur="4.4s" repeatCount="indefinite"/></circle><circle cx="14" cy="52" r="1.3"
-      fill="#58a6ff" opacity="0.44">
-      <animate attributeName="cy" values="52;77;52"
-        dur="3.9s" repeatCount="indefinite"/></circle><circle cx="585" cy="50" r="1.0"
-      fill="#58a6ff" opacity="0.55">
-      <animate attributeName="cy" values="50;159;50"
-        dur="3.2s" repeatCount="indefinite"/></circle><circle cx="506" cy="74" r="1.4"
+      <rect width="100%" height="100%" rx="12" fill="url(#bg)"/><circle cx="247" cy="67" r="1.9"
+      fill="#58a6ff" opacity="0.50">
+      <animate attributeName="cy" values="67;146;67"
+        dur="5.9s" repeatCount="indefinite"/></circle><circle cx="152" cy="165" r="1.7"
+      fill="#58a6ff" opacity="0.28">
+      <animate attributeName="cy" values="165;175;165"
+        dur="5.9s" repeatCount="indefinite"/></circle><circle cx="89" cy="47" r="1.5"
       fill="#58a6ff" opacity="0.25">
-      <animate attributeName="cy" values="74;29;74"
-        dur="6.3s" repeatCount="indefinite"/></circle><circle cx="117" cy="60" r="1.1"
-      fill="#58a6ff" opacity="0.55">
-      <animate attributeName="cy" values="60;11;60"
-        dur="6.4s" repeatCount="indefinite"/></circle><circle cx="739" cy="95" r="1.7"
-      fill="#58a6ff" opacity="0.55">
-      <animate attributeName="cy" values="95;51;95"
-        dur="5.4s" repeatCount="indefinite"/></circle><circle cx="779" cy="49" r="1.0"
-      fill="#58a6ff" opacity="0.59">
-      <animate attributeName="cy" values="49;63;49"
-        dur="5.7s" repeatCount="indefinite"/></circle><circle cx="251" cy="64" r="1.6"
+      <animate attributeName="cy" values="47;162;47"
+        dur="6.1s" repeatCount="indefinite"/></circle><circle cx="563" cy="33" r="1.3"
+      fill="#58a6ff" opacity="0.23">
+      <animate attributeName="cy" values="33;177;33"
+        dur="6.5s" repeatCount="indefinite"/></circle><circle cx="51" cy="136" r="2.1"
+      fill="#58a6ff" opacity="0.33">
+      <animate attributeName="cy" values="136;73;136"
+        dur="3.1s" repeatCount="indefinite"/></circle><circle cx="669" cy="32" r="1.1"
+      fill="#58a6ff" opacity="0.50">
+      <animate attributeName="cy" values="32;21;32"
+        dur="4.8s" repeatCount="indefinite"/></circle><circle cx="373" cy="158" r="1.3"
+      fill="#58a6ff" opacity="0.37">
+      <animate attributeName="cy" values="158;28;158"
+        dur="3.1s" repeatCount="indefinite"/></circle><circle cx="489" cy="90" r="1.2"
+      fill="#58a6ff" opacity="0.29">
+      <animate attributeName="cy" values="90;150;90"
+        dur="3.2s" repeatCount="indefinite"/></circle><circle cx="435" cy="184" r="2.1"
+      fill="#58a6ff" opacity="0.21">
+      <animate attributeName="cy" values="184;93;184"
+        dur="3.4s" repeatCount="indefinite"/></circle><circle cx="120" cy="114" r="1.4"
+      fill="#58a6ff" opacity="0.43">
+      <animate attributeName="cy" values="114;171;114"
+        dur="5.1s" repeatCount="indefinite"/></circle><circle cx="640" cy="161" r="1.6"
       fill="#58a6ff" opacity="0.54">
-      <animate attributeName="cy" values="64;31;64"
-        dur="3.6s" repeatCount="indefinite"/></circle><circle cx="684" cy="188" r="2.2"
-      fill="#58a6ff" opacity="0.26">
-      <animate attributeName="cy" values="188;97;188"
-        dur="6.4s" repeatCount="indefinite"/></circle>
+      <animate attributeName="cy" values="161;128;161"
+        dur="6.8s" repeatCount="indefinite"/></circle><circle cx="740" cy="11" r="1.4"
+      fill="#58a6ff" opacity="0.57">
+      <animate attributeName="cy" values="11;152;11"
+        dur="5.7s" repeatCount="indefinite"/></circle><circle cx="161" cy="158" r="1.3"
+      fill="#58a6ff" opacity="0.45">
+      <animate attributeName="cy" values="158;120;158"
+        dur="4.8s" repeatCount="indefinite"/></circle><circle cx="743" cy="128" r="1.9"
+      fill="#58a6ff" opacity="0.35">
+      <animate attributeName="cy" values="128;109;128"
+        dur="3.7s" repeatCount="indefinite"/></circle><circle cx="348" cy="27" r="0.9"
+      fill="#58a6ff" opacity="0.52">
+      <animate attributeName="cy" values="27;85;27"
+        dur="5.8s" repeatCount="indefinite"/></circle><circle cx="397" cy="87" r="1.4"
+      fill="#58a6ff" opacity="0.20">
+      <animate attributeName="cy" values="87;150;87"
+        dur="5.0s" repeatCount="indefinite"/></circle><circle cx="227" cy="15" r="1.0"
+      fill="#58a6ff" opacity="0.25">
+      <animate attributeName="cy" values="15;178;15"
+        dur="3.1s" repeatCount="indefinite"/></circle><circle cx="71" cy="53" r="2.0"
+      fill="#58a6ff" opacity="0.58">
+      <animate attributeName="cy" values="53;16;53"
+        dur="6.1s" repeatCount="indefinite"/></circle><circle cx="216" cy="87" r="0.9"
+      fill="#58a6ff" opacity="0.46">
+      <animate attributeName="cy" values="87;76;87"
+        dur="6.8s" repeatCount="indefinite"/></circle><circle cx="661" cy="153" r="0.9"
+      fill="#58a6ff" opacity="0.28">
+      <animate attributeName="cy" values="153;45;153"
+        dur="3.4s" repeatCount="indefinite"/></circle><circle cx="55" cy="67" r="1.0"
+      fill="#58a6ff" opacity="0.48">
+      <animate attributeName="cy" values="67;153;67"
+        dur="4.7s" repeatCount="indefinite"/></circle><circle cx="315" cy="165" r="1.0"
+      fill="#58a6ff" opacity="0.57">
+      <animate attributeName="cy" values="165;114;165"
+        dur="4.9s" repeatCount="indefinite"/></circle><circle cx="563" cy="126" r="1.1"
+      fill="#58a6ff" opacity="0.53">
+      <animate attributeName="cy" values="126;125;126"
+        dur="3.7s" repeatCount="indefinite"/></circle><circle cx="715" cy="116" r="2.0"
+      fill="#58a6ff" opacity="0.34">
+      <animate attributeName="cy" values="116;20;116"
+        dur="3.8s" repeatCount="indefinite"/></circle>
   <text x="400" y="68" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial"
     font-size="34" font-weight="700" fill="#ffffff">Hi, I&apos;m Moe Elbarky<animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
   </text>
@@ -85,5 +85,5 @@
   <text x="400" y="146" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial"
     font-size="15" fill="#58a6ff">☁️ AWS Solutions Architect – Associate   •   🧩 225 LeetCode solved   •   🔓 Open-source contributor</text>
   <text x="786" y="188" text-anchor="end" font-family="Segoe UI, Ubuntu, Arial"
-    font-size="10" fill="#8b949e" opacity="0.6">updated 22 Nov 2026, 06:42 (Cairo)</text>
+    font-size="10" fill="#8b949e" opacity="0.6">updated 22 Nov 2026, 15:56 (Cairo)</text>
 </svg>
